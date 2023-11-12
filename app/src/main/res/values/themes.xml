@@ -1,0 +1,55 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BMP601" parent="Theme.Material3.Light" >
+        <!-- Customize your light theme here. -->
+        <item name="android:windowActionBar"></item>
+
+
+    </style>
+
+    <style name="theme1" parent="Theme.Material3.Light">
+        <item name="colorPrimaryDark">@color/theme1color1</item>
+        <item name="colorPrimary">@color/theme1color2</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/theme1back</item>
+        <item name="colorAccent">@color/theme1Accent</item>
+        <item name="android:navigationBarColor">@color/theme1back</item>
+    </style>
+
+    <style name="theme2" parent="Theme.Material3.Light">
+        <item name="colorPrimaryDark">@color/theme2color1</item>
+        <item name="colorPrimary">@color/theme2color2</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/theme2back</item>
+        <item name="colorAccent">@color/theme2Accent</item>
+        <item name="android:navigationBarColor">@color/theme2back</item>
+    </style>
+
+    <style name="theme3" parent="Theme.Material3.Light">
+        <item name="colorPrimaryDark">@color/theme3color1</item>
+        <item name="colorPrimary">@color/theme3color2</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/theme3back</item>
+        <item name="colorAccent">@color/theme3Accent</item>
+        <item name="android:navigationBarColor">@color/theme3back</item>
+    </style>
+
+    <style name="theme4" parent="Theme.Material3.Light">
+        <item name="colorPrimaryDark">@color/theme4color1</item>
+        <item name="colorPrimary">@color/theme4color2</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/theme4back</item>
+        <item name="colorAccent">@color/theme4Accent</item>
+        <item name="android:navigationBarColor">@color/theme4back</item>
+    </style>
+
+    <style name="theme5" parent="Theme.Material3.Light">
+        <item name="colorPrimaryDark">@color/theme5color1</item>
+        <item name="colorPrimary">@color/theme5color2</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/theme5back</item>
+        <item name="colorAccent">@color/theme5Accent</item>
+        <item name="android:navigationBarColor">@color/theme5back</item>
+    </style>
+
+</resources>

@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">BMP601</string>
+    <string name="label">My App</string>
+    <string name="homescreen">Home</string>
+    <string name="addtypescreen">Add Type</string>
+    <string name="addmaterialscreen">Add Material</string>
+    <string name="addagentscreen">Add Agent</string>
+    <string name="addinvoicescreen">Add Invoice</string>
+    <string name="addinvoicedetailscrren">Add Invoice Detail</string>
+    <string name="generatereports">Generate Reports</string>
+    <string name="settings">Settings</string>
+
+    <string name="bt_save">Save Record</string>
+    <string name="bt_show">Show Records</string>
+
+    <!--   Sign in screen -->
+    <string name="pass">Enter Password</string>
+    <string name="user">Enter Username</string>
+    <string name="btn_signin">SIGN IN</string>
+
+    <!-- Home screen -->
+    <string name="bt_addtype">Add Type</string>
+    <string name="bt_addmaterial">Add Material</string>
+    <string name="bt_addagent">Add Agent</string>
+    <string name="bt_addinvoice">Add Invoice</string>
+    <string name="bt_addinvoicedetail">Add Invoice Detail</string>
+    <string name="bt_generate">Generate Reports</string>
+    <string name="text">MY APP</string>
+
+
+    <!-- Add type screen -->
+    <string name="et_typeid">Enter Type ID</string>
+    <string name="et_typename">Enter Type Name</string>
+    <string name="et_typedesc">Enter Type Description</string>
+
+    <!-- material screen  -->
+    <string name="et_materid">Enter Material ID</string>
+    <string name="et_matername">Enter Material Name</string>
+    <string name="et_matertypeid">Enter Type ID</string>
+    <string name="et_materdesc">Enter Material Description</string>
+
+    <!-- agent screen -->
+    <string name="et_agentid">Enter Agent ID</string>
+    <string name="et_agentname">Enter Agent Name</string>
+    <string name="et_agentdesc">Enter Agent Description</string>
+
+    <!-- Invoice screen -->
+    <string name="et_invoiceid">Enter Invoice ID</string>
+    <string name="et_invoiceagent">Enter Agent ID</string>
+    <string name="et_invoicedate">Enter Date YYYY-MM-DD</string>
+    <string name="et_invoiceisbuy">Invoice Is buy</string>
+    <string name="et_invoicedesc">Enter Invoice Description</string>
+
+    <!-- Invoice detail screen -->
+    <string name="et_detailid">Enter Detail ID</string>
+    <string name="et_detailinvoiceid">Enter Invoice ID</string>
+    <string name="et_detailmaterialid">Enter Material ID</string>
+    <string name="et_detailnumber">Enter Number</string>
+    <string name="et_detailprice">Enter price</string>
+    <string name="tv_detailtotal">The Total Is</string>
+
+    <!-- Generate -->
+    <string name="bt_suppliers">Most Suppliers</string>
+    <string name="bt_buyers">Most Buyers</string>
+    <string name="bt_MSales">Show Most sales</string>
+    <string name="bt_SumSales">Show Sum Sales</string>
+    <string name="bt_SumPurchases">Show Sum Purchases</string>
+
+    <string name="tv_date">Enter Date: </string>
+    <string name="et_from">From YYYY-MM-DD</string>
+    <string name="et_to">To YYYY-MM-DD</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!--- setting -->
+    <string name="bt_apply">APPLY Theme</string>
+    <string name="rb_themedef">Default Theme</string>
+    <string name="rb_theme1">LIGHT BLUE</string>
+    <string name="rb_theme2">TEAL</string>
+    <string name="rb_theme3">BLUE GREY</string>
+    <string name="rb_theme4">GREEN</string>
+    <string name="rb_theme5">BROWN</string>
+    <string name="tv_settingtheme">Themes: </string>
+    <string name="sw_sound">Sound: </string>
+</resources>

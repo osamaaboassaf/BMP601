@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="defbar">#673AB7</color>
+
+    <!-- theme 1 -->
+    <color name="theme1color1">#0288D1</color>
+    <color name="theme1color2">#03A9F4</color>
+    <color name="theme1back">#FFD4ECF8</color>
+    <color name="theme1Accent">#03A9F4</color>
+    <color name="theme1bar">#03A9F4</color>
+
+    <!-- theme 2 -->
+    <color name="theme2color1">#00796B</color>
+    <color name="theme2color2">#009688</color>
+    <color name="theme2back">#B2DFDB</color>
+    <color name="theme2Accent">#212121</color>
+    <color name="theme2bar">#009688</color>
+
+    <!-- theme 3 -->
+    <color name="theme3color1">#455A64</color>
+    <color name="theme3color2">#607D8B</color>
+    <color name="theme3back">#BDBDBD</color>
+    <color name="theme3Accent">#E91E63</color>
+    <color name="theme3bar">#607D8B</color>
+
+    <!-- theme 4 -->
+    <color name="theme4color1">#388E3C</color>
+    <color name="theme4color2">#4CAF50</color>
+    <color name="theme4back">#C8E6C9</color>
+    <color name="theme4Accent">#009688</color>
+    <color name="theme4bar">#4CAF50</color>
+
+    <!-- theme 5 -->
+    <color name="theme5color1">#5D4037</color>
+    <color name="theme5color2">#795548</color>
+    <color name="theme5back">#FFBC998C</color>
+    <color name="theme5Accent">#AC380E</color>
+    <color name="theme5bar">#795548</color>
+
+</resources>
